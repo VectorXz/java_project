@@ -1,5 +1,5 @@
-# Fix this once #1 is solved
+// Implement this once #5 is solved
 
-public Main {
+public class Main {
 
 }
