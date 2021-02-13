@@ -1,4 +1,4 @@
-// Implement this once #5 is solved
+// Implement this once #5 is fixed
 
 public class Main {
 
